@@ -7,4 +7,5 @@ public class variable {
         boolean isActive = true;
 
     }
+
 }
