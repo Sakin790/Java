@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class ForLoops {
     public static void main(String[] args) {
         int i = 0;
@@ -8,4 +10,4 @@ public class ForLoops {
 }
 
 
-// Print  i+2 in java
+LSOutput
