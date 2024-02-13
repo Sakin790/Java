@@ -3,6 +3,6 @@ public class widening {
         int myInt = 9;
         double myDuble = myInt;
         System.out.println(myDuble);
-        //Int value to duble value
+      
     }
 }
