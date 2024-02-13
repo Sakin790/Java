@@ -4,6 +4,6 @@ public class Manual_casting {
       int myInt = (int) myDouble; 
   
       System.out.println(myDouble);  
-      System.out.println(myInt);      // Outputs 9
+      System.out.println(myInt);      
     }
   }
