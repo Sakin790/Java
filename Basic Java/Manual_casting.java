@@ -3,7 +3,7 @@ public class Manual_casting {
       double myDouble = 9.78d;
       int myInt = (int) myDouble; 
   
-      System.out.println(myDouble);   // Outputs 9.78
+      System.out.println(myDouble);  
       System.out.println(myInt);      // Outputs 9
     }
   }
