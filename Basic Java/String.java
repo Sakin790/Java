@@ -5,4 +5,3 @@ public class String {
     }
   }
 
-  // As like javascript Everything is Same
