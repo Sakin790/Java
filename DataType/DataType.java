@@ -3,3 +3,20 @@ public class DataType {
         System.out.println(" \n Data");
     }
 }
+/*
+ * Fundamental dataType , preDefine inside compiler
+ * Primitive size
+ * boolean : implementation dependent
+ * char : 2 byte (c++ => 1 byte)
+ * byte : 1 byte
+ * short : 2 byte
+ * int : 4 byte
+ * long : 8 byte
+ * floot : 4 byte
+ * double : 8 byte
+ * 
+ * 
+ * Non-Primitive size
+ * for define non primitive DT , its required to use primitev type
+ 
+ */
