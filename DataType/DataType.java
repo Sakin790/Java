@@ -4,7 +4,7 @@ public class DataType {
     }
 }
 /*
- * Fundamental dataType , preDefine inside compiler
+ * Fundamental dataType, Value type variable , preDefine inside compiler
  * Primitive size
  * boolean : implementation dependent
  * char : 2 byte (c++ => 1 byte)
@@ -17,6 +17,7 @@ public class DataType {
  * 
  * 
  * Non-Primitive size
- * for define non primitive DT , its required to use primitev type
- 
+ * for define non primitive DT , its required to use primitive type
+ * referance variable
+ * null can only be stored in ref type
  */
