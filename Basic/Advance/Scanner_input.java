@@ -10,6 +10,7 @@ public class Scanner_input {
 
         int sum = height + weight;
         System.out.println(sum);
+        input.close();
 
     }
 }

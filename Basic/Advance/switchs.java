@@ -15,8 +15,9 @@ public class switchs {
                 System.out.println("Day 2");
                 break;
             default:
-            System.out.println("Please inter a number:");
+                System.out.println("Please inter a number:");
                 break;
         }
+        in.close();
     }
 }

@@ -14,6 +14,7 @@ public class Sum {
         System.out.print("Sum is ");
         int sum = (num2 + num1);
         System.out.println(sum);
+        in.close();
     }
     static  void gretings (){
         System.out.println("Hello worlds");
