@@ -8,6 +8,7 @@ public class Input {
         System.out.println("Enter a String Valus...");
         Boolean name = Input.nextBoolean();
         System.out.println("String value is" + name);
+        Input.close();
 
     }
 }
