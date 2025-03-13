@@ -1,0 +1,19 @@
+
+Create a HashMap(Key:String,value:Integer)
+HashMap<String, Integer>map = new HashMap<>();
+
+map.put()                 :InserValue
+map.containsKey(key)      :Kono Key Exist kore kina 
+myMap.containsValue(value): kono value exist kore kina
+map.get(key)              :Return value curspoding key
+myMap.getOrDefault(key, defaultValue) : jodi key Exist kore tahole key
+                         return korbe nahole default value return korbe !
+myMap.remove(key)         : remove key
+myMap.size()              : size
+      
+                    ADVANCE
+myMap.keySet()            : return keys
+myMap.values()            : return values
+                   COMPUTES
+
+
